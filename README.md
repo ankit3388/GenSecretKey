@@ -4,7 +4,7 @@ A Java Console Application for generating random Secret key and checking passwor
 
 ## Introduction
 
-During my second-year , after completing the *Object-Oriented Effective Java Programming* course, I wanted to build something practical to apply my skills. One night, while explaining to my father the importance of strong Secret key for social media accounts, I got the idea of creating a random password generator.  
+During 3rd-year , after completing the *Object-Oriented Effective Java Programming* course, I wanted to build something practical to apply my skills. One night, while explaining to my father the importance of strong Secret key for social media accounts, I got the idea of creating a random password generator.  
 
 A week later, the initial version was ready. Later, I added a **password strength checker** to evaluate the Secret key based on security criteria. However, I realized that the console-based interface was not user-friendly for non-technical users. To improve accessibility, I developed a **GUI version**, which is available in the [Password-Services repository](#).
 
